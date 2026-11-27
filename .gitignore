@@ -10,3 +10,6 @@ wheels/
 .venv
 .vscode
 uv.lock
+
+# Zip
+*.zip
