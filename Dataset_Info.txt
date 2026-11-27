@@ -1,0 +1,14 @@
+open source dataset
+NIST Ballistics Toolmark Research Database (NBTRD)
+https://tsapps.nist.gov/NRBTD/
+
+Search: https://tsapps.nist.gov/NRBTD/Studies/Search
+Nominal Caliber: 9mm
+Measurand: Photo Image
+
+Study Name: Hamby Hi-Point C9 Slides
+Study Description: 30 Cartridge cases fired from ten consecutively manufactured Hi-Point C9 pistol slides. 
+Link: https://tsapps.nist.gov/NRBTD/Studies/Studies/Details/4908a64a-702c-4203-a945-6279df3acf3f?nm=True&mt=7&m=1&sp=1
+Caliber: 9mm Luger
+
+BF R: Breech Face, Ring light

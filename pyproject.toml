@@ -1,0 +1,13 @@
+[project]
+name = "forensic-vision"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.2",
+    "opencv-python>=5.1.0.95",
+    "scikit-learn>=1.9.1",
+]
